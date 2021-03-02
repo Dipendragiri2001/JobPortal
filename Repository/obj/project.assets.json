@@ -9565,8 +9565,8 @@
     },
     "ApplicationData/1.0.0": {
       "type": "project",
-      "path": "../ApplicationData/ApplicationData.csproj",
-      "msbuildProject": "../ApplicationData/ApplicationData.csproj"
+      "path": "../Applicationdata/ApplicationData.csproj",
+      "msbuildProject": "../Applicationdata/ApplicationData.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -9581,19 +9581,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gaurav\\.nuget\\packages\\": {}
+    "C:\\Users\\Dipen\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gaurav\\Desktop\\CGitHub\\jobscatalog\\Repository\\Repository.csproj",
+      "projectUniqueName": "C:\\Users\\Dipen\\Downloads\\jobscatalog\\Repository\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "C:\\Users\\Gaurav\\Desktop\\CGitHub\\jobscatalog\\Repository\\Repository.csproj",
-      "packagesPath": "C:\\Users\\Gaurav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gaurav\\Desktop\\CGitHub\\jobscatalog\\Repository\\obj\\",
+      "projectPath": "C:\\Users\\Dipen\\Downloads\\jobscatalog\\Repository\\Repository.csproj",
+      "packagesPath": "C:\\Users\\Dipen\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dipen\\Downloads\\jobscatalog\\Repository\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Gaurav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dipen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9606,8 +9610,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Gaurav\\Desktop\\CGitHub\\jobscatalog\\ApplicationData\\ApplicationData.csproj": {
-              "projectPath": "C:\\Users\\Gaurav\\Desktop\\CGitHub\\jobscatalog\\ApplicationData\\ApplicationData.csproj"
+            "C:\\Users\\Dipen\\Downloads\\jobscatalog\\Applicationdata\\ApplicationData.csproj": {
+              "projectPath": "C:\\Users\\Dipen\\Downloads\\jobscatalog\\Applicationdata\\ApplicationData.csproj"
             }
           }
         }
@@ -9661,7 +9665,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

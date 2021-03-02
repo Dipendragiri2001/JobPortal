@@ -9411,19 +9411,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gaurav\\.nuget\\packages\\": {}
+    "C:\\Users\\Dipen\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gaurav\\Desktop\\CGitHub\\jobscatalog\\ApplicationData\\ApplicationData.csproj",
+      "projectUniqueName": "C:\\Users\\Dipen\\Downloads\\jobscatalog\\Applicationdata\\ApplicationData.csproj",
       "projectName": "ApplicationData",
-      "projectPath": "C:\\Users\\Gaurav\\Desktop\\CGitHub\\jobscatalog\\ApplicationData\\ApplicationData.csproj",
-      "packagesPath": "C:\\Users\\Gaurav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gaurav\\Desktop\\CGitHub\\jobscatalog\\ApplicationData\\obj\\",
+      "projectPath": "C:\\Users\\Dipen\\Downloads\\jobscatalog\\Applicationdata\\ApplicationData.csproj",
+      "packagesPath": "C:\\Users\\Dipen\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dipen\\Downloads\\jobscatalog\\Applicationdata\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Gaurav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dipen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9495,7 +9499,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
